@@ -2,3 +2,5 @@ Merhaba
 Murat
 test
 çakışma olacak
+deneme remote
+ 
